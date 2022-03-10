@@ -221,7 +221,7 @@ metadata:
     repository: https://github.gwd.broadcom.net/BROADCOM/uma-operator
     support: Broadcom, Inc.
   creationTimestamp:
-  name: uma-operator.v202.1.0-25
+  name: uma-operator.v2022.3.2-1
   namespace: placeholder
 spec:
   apiservicedefinitions: {}
@@ -480,4 +480,4 @@ spec:
   provider:
     name: Broadcom, Inc.
     url: https://broadcom.com
-  version: 2022.3.1-1
+  version: 2022.3.2-1
