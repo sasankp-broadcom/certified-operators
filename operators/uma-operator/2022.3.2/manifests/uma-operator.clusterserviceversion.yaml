@@ -471,13 +471,13 @@ spec:
   - uma-operator
   links:
   - name: Intro to UMA
-    url: https://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/it-operations-management/application-performance-management/11-1/implementing-agents/Universal-Monitoring-Agent-for-Kubernetes1.html
+    url: https://techdocs.broadcom.com/us/en/ca-enterprise-software/it-operations-management/dx-apm-saas/SaaS/implementing-agents/Universal-Monitoring-Agent.html
   - name: Intro to APM
-    url: https://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/it-operations-management/application-performance-management/11-1.html
+    url: https://techdocs.broadcom.com/us/en/ca-enterprise-software/it-operations-management/dx-apm-saas/SaaS.html
   maintainers:
   - email: support@broadcom.com
     name: Broadcom, Inc.
-  maturity: alpha
+  maturity: stable
   provider:
     name: Broadcom, Inc.
     url: https://broadcom.com
